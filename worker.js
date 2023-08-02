@@ -2175,7 +2175,7 @@ var src_default = {
       return new Response(`<!DOCTYPE html>
 <body>
   <p>
-    
+    Copy this sub link in your v2ray app as below. In this case, a random domain from the worker itself is selected as a clean IP and will respond with good quality on most operators:
   </p>
   <p>
     <a href="https://${url.hostname}/sub">https://${url.hostname}/sub</a>
